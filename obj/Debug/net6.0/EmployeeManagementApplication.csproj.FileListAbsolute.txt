@@ -1,0 +1,15 @@
+C:\Users\Abd Elsamad\OOP_Projects\EmployeeManagementApplication\bin\Debug\net6.0\EmployeeManagementApplication.exe
+C:\Users\Abd Elsamad\OOP_Projects\EmployeeManagementApplication\bin\Debug\net6.0\EmployeeManagementApplication.deps.json
+C:\Users\Abd Elsamad\OOP_Projects\EmployeeManagementApplication\bin\Debug\net6.0\EmployeeManagementApplication.runtimeconfig.json
+C:\Users\Abd Elsamad\OOP_Projects\EmployeeManagementApplication\bin\Debug\net6.0\EmployeeManagementApplication.dll
+C:\Users\Abd Elsamad\OOP_Projects\EmployeeManagementApplication\bin\Debug\net6.0\EmployeeManagementApplication.pdb
+C:\Users\Abd Elsamad\OOP_Projects\EmployeeManagementApplication\obj\Debug\net6.0\EmployeeManagementApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abd Elsamad\OOP_Projects\EmployeeManagementApplication\obj\Debug\net6.0\EmployeeManagementApplication.AssemblyInfoInputs.cache
+C:\Users\Abd Elsamad\OOP_Projects\EmployeeManagementApplication\obj\Debug\net6.0\EmployeeManagementApplication.AssemblyInfo.cs
+C:\Users\Abd Elsamad\OOP_Projects\EmployeeManagementApplication\obj\Debug\net6.0\EmployeeManagementApplication.csproj.CoreCompileInputs.cache
+C:\Users\Abd Elsamad\OOP_Projects\EmployeeManagementApplication\obj\Debug\net6.0\EmployeeManagementApplication.sourcelink.json
+C:\Users\Abd Elsamad\OOP_Projects\EmployeeManagementApplication\obj\Debug\net6.0\EmployeeManagementApplication.dll
+C:\Users\Abd Elsamad\OOP_Projects\EmployeeManagementApplication\obj\Debug\net6.0\refint\EmployeeManagementApplication.dll
+C:\Users\Abd Elsamad\OOP_Projects\EmployeeManagementApplication\obj\Debug\net6.0\EmployeeManagementApplication.pdb
+C:\Users\Abd Elsamad\OOP_Projects\EmployeeManagementApplication\obj\Debug\net6.0\EmployeeManagementApplication.genruntimeconfig.cache
+C:\Users\Abd Elsamad\OOP_Projects\EmployeeManagementApplication\obj\Debug\net6.0\ref\EmployeeManagementApplication.dll

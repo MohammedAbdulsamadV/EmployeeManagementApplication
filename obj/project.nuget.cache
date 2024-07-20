@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "1kVAi06HKtOvXEzsDXj2DtS2MP7VRHq55T8+tyaawo9kk9yz/5Z/GeTAkp1/zzNpys54WK1IyZcTr+f/yRePmA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Abd Elsamad\\OOP_Projects\\EmployeeManagementApplication\\EmployeeManagementApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Abd Elsamad\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.31\\microsoft.windowsdesktop.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\Abd Elsamad\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.31\\microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\Abd Elsamad\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.31\\microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\Abd Elsamad\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.31\\microsoft.netcore.app.host.win-x64.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

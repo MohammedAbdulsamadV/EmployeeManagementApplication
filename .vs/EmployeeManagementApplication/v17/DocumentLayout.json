@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Abd Elsamad\\OOP_Projects\\EmployeeManagementApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAFCF1E-60BB-47DA-95AE-6229ABA7DE8A}|EmployeeManagementApplication.csproj|c:\\users\\abd elsamad\\oop_projects\\employeemanagementapplication\\hourlyemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CAFCF1E-60BB-47DA-95AE-6229ABA7DE8A}|EmployeeManagementApplication.csproj|solutionrelative:hourlyemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAFCF1E-60BB-47DA-95AE-6229ABA7DE8A}|EmployeeManagementApplication.csproj|c:\\users\\abd elsamad\\oop_projects\\employeemanagementapplication\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CAFCF1E-60BB-47DA-95AE-6229ABA7DE8A}|EmployeeManagementApplication.csproj|solutionrelative:project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAFCF1E-60BB-47DA-95AE-6229ABA7DE8A}|EmployeeManagementApplication.csproj|c:\\users\\abd elsamad\\oop_projects\\employeemanagementapplication\\volunteer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CAFCF1E-60BB-47DA-95AE-6229ABA7DE8A}|EmployeeManagementApplication.csproj|solutionrelative:volunteer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAFCF1E-60BB-47DA-95AE-6229ABA7DE8A}|EmployeeManagementApplication.csproj|c:\\users\\abd elsamad\\oop_projects\\employeemanagementapplication\\executiveemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CAFCF1E-60BB-47DA-95AE-6229ABA7DE8A}|EmployeeManagementApplication.csproj|solutionrelative:executiveemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAFCF1E-60BB-47DA-95AE-6229ABA7DE8A}|EmployeeManagementApplication.csproj|c:\\users\\abd elsamad\\oop_projects\\employeemanagementapplication\\salariedemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CAFCF1E-60BB-47DA-95AE-6229ABA7DE8A}|EmployeeManagementApplication.csproj|solutionrelative:salariedemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAFCF1E-60BB-47DA-95AE-6229ABA7DE8A}|EmployeeManagementApplication.csproj|c:\\users\\abd elsamad\\oop_projects\\employeemanagementapplication\\commisionemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CAFCF1E-60BB-47DA-95AE-6229ABA7DE8A}|EmployeeManagementApplication.csproj|solutionrelative:commisionemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAFCF1E-60BB-47DA-95AE-6229ABA7DE8A}|EmployeeManagementApplication.csproj|c:\\users\\abd elsamad\\oop_projects\\employeemanagementapplication\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CAFCF1E-60BB-47DA-95AE-6229ABA7DE8A}|EmployeeManagementApplication.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAFCF1E-60BB-47DA-95AE-6229ABA7DE8A}|EmployeeManagementApplication.csproj|c:\\users\\abd elsamad\\oop_projects\\employeemanagementapplication\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CAFCF1E-60BB-47DA-95AE-6229ABA7DE8A}|EmployeeManagementApplication.csproj|solutionrelative:staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAFCF1E-60BB-47DA-95AE-6229ABA7DE8A}|EmployeeManagementApplication.csproj|c:\\users\\abd elsamad\\oop_projects\\employeemanagementapplication\\staffmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CAFCF1E-60BB-47DA-95AE-6229ABA7DE8A}|EmployeeManagementApplication.csproj|solutionrelative:staffmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAFCF1E-60BB-47DA-95AE-6229ABA7DE8A}|EmployeeManagementApplication.csproj|c:\\users\\abd elsamad\\oop_projects\\employeemanagementapplication\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CAFCF1E-60BB-47DA-95AE-6229ABA7DE8A}|EmployeeManagementApplication.csproj|solutionrelative:department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAFCF1E-60BB-47DA-95AE-6229ABA7DE8A}|EmployeeManagementApplication.csproj|c:\\users\\abd elsamad\\oop_projects\\employeemanagementapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CAFCF1E-60BB-47DA-95AE-6229ABA7DE8A}|EmployeeManagementApplication.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAFCF1E-60BB-47DA-95AE-6229ABA7DE8A}|EmployeeManagementApplication.csproj|c:\\users\\abd elsamad\\oop_projects\\employeemanagementapplication\\budget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CAFCF1E-60BB-47DA-95AE-6229ABA7DE8A}|EmployeeManagementApplication.csproj|solutionrelative:budget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Abd Elsamad\\OOP_Projects\\EmployeeManagementApplication\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "C:\\Users\\Abd Elsamad\\OOP_Projects\\EmployeeManagementApplication\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T00:47:48.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExecutiveEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\Abd Elsamad\\OOP_Projects\\EmployeeManagementApplication\\ExecutiveEmployee.cs",
+              "RelativeDocumentMoniker": "ExecutiveEmployee.cs",
+              "ToolTip": "C:\\Users\\Abd Elsamad\\OOP_Projects\\EmployeeManagementApplication\\ExecutiveEmployee.cs",
+              "RelativeToolTip": "ExecutiveEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T01:16:21.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SalariedEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\Abd Elsamad\\OOP_Projects\\EmployeeManagementApplication\\SalariedEmployee.cs",
+              "RelativeDocumentMoniker": "SalariedEmployee.cs",
+              "ToolTip": "C:\\Users\\Abd Elsamad\\OOP_Projects\\EmployeeManagementApplication\\SalariedEmployee.cs",
+              "RelativeToolTip": "SalariedEmployee.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T00:45:46.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CommisionEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\Abd Elsamad\\OOP_Projects\\EmployeeManagementApplication\\CommisionEmployee.cs",
+              "RelativeDocumentMoniker": "CommisionEmployee.cs",
+              "ToolTip": "C:\\Users\\Abd Elsamad\\OOP_Projects\\EmployeeManagementApplication\\CommisionEmployee.cs",
+              "RelativeToolTip": "CommisionEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T01:17:38.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Volunteer.cs",
+              "DocumentMoniker": "C:\\Users\\Abd Elsamad\\OOP_Projects\\EmployeeManagementApplication\\Volunteer.cs",
+              "RelativeDocumentMoniker": "Volunteer.cs",
+              "ToolTip": "C:\\Users\\Abd Elsamad\\OOP_Projects\\EmployeeManagementApplication\\Volunteer.cs",
+              "RelativeToolTip": "Volunteer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T01:18:02.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HourlyEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\Abd Elsamad\\OOP_Projects\\EmployeeManagementApplication\\HourlyEmployee.cs",
+              "RelativeDocumentMoniker": "HourlyEmployee.cs",
+              "ToolTip": "C:\\Users\\Abd Elsamad\\OOP_Projects\\EmployeeManagementApplication\\HourlyEmployee.cs",
+              "RelativeToolTip": "HourlyEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T01:16:54.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\Abd Elsamad\\OOP_Projects\\EmployeeManagementApplication\\Project.cs",
+              "RelativeDocumentMoniker": "Project.cs",
+              "ToolTip": "C:\\Users\\Abd Elsamad\\OOP_Projects\\EmployeeManagementApplication\\Project.cs",
+              "RelativeToolTip": "Project.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAEgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T16:18:46.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "C:\\Users\\Abd Elsamad\\OOP_Projects\\EmployeeManagementApplication\\Staff.cs",
+              "RelativeDocumentMoniker": "Staff.cs",
+              "ToolTip": "C:\\Users\\Abd Elsamad\\OOP_Projects\\EmployeeManagementApplication\\Staff.cs",
+              "RelativeToolTip": "Staff.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAANsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T00:24:29.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Abd Elsamad\\OOP_Projects\\EmployeeManagementApplication\\Department.cs",
+              "RelativeDocumentMoniker": "Department.cs",
+              "ToolTip": "C:\\Users\\Abd Elsamad\\OOP_Projects\\EmployeeManagementApplication\\Department.cs",
+              "RelativeToolTip": "Department.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAwwB0AAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T22:21:33.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StaffMember.cs",
+              "DocumentMoniker": "C:\\Users\\Abd Elsamad\\OOP_Projects\\EmployeeManagementApplication\\StaffMember.cs",
+              "RelativeDocumentMoniker": "StaffMember.cs",
+              "ToolTip": "C:\\Users\\Abd Elsamad\\OOP_Projects\\EmployeeManagementApplication\\StaffMember.cs",
+              "RelativeToolTip": "StaffMember.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T00:45:14.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Budget.cs",
+              "DocumentMoniker": "C:\\Users\\Abd Elsamad\\OOP_Projects\\EmployeeManagementApplication\\Budget.cs",
+              "RelativeDocumentMoniker": "Budget.cs",
+              "ToolTip": "C:\\Users\\Abd Elsamad\\OOP_Projects\\EmployeeManagementApplication\\Budget.cs",
+              "RelativeToolTip": "Budget.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCIAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T21:57:57.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Abd Elsamad\\OOP_Projects\\EmployeeManagementApplication\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Abd Elsamad\\OOP_Projects\\EmployeeManagementApplication\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAwwCUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T11:42:44.632Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
